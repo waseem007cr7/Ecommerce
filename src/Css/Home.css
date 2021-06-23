@@ -1,0 +1,43 @@
+.landing{
+    width: 40%;
+    height: 750px;
+    /* border: 2px solid red; */
+}
+
+.img-box{
+    width: 60%;
+    height: 750px;
+    /* border: 2px solid green; */
+}
+
+.img{
+    width: "670px";
+    height: "750px";
+    margin-top: 50px;
+    margin-left: 500px;
+}
+
+.landing h3{
+    margin-left: 40px;
+    margin-top: 250px;
+    font-size: 1.5rem;
+}
+
+.landing p{
+    margin-left: 28px;
+    font-size: 2rem;
+    font-weight: bold;
+}
+
+.btn3{
+    height: 44px;
+    width: 200px;
+    background-color: blue;
+    color: white;
+    border-color: blue;
+    margin-left: 40px;
+    margin-top: 20px;
+    border-radius: 7px;
+    font-size: 1.3rem;
+    font-family: 'Courier New', Courier, monospace;
+}

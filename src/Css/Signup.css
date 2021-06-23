@@ -1,0 +1,43 @@
+#signup-box{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 34px;
+    padding-top: 150px;
+}
+
+#signup-box textarea, 
+#signup-box input{
+    width: 100%;
+    padding: 1rem;
+    border-radius: 9px;
+    font-size: 1.1rem;
+    background-color: black;
+    border-color: blue;
+}
+
+#signup-box form{
+    width: 40%;
+    font-family: 'Courier New', Courier, monospace;
+    /* font-size: 1.3rem; */
+    font-weight: bold;
+}
+
+#signup-box label{
+    font-size: 1.3rem;
+    color: white;
+    /* font-family: 'Bree Serif', serif; */
+}
+
+.btn2{
+    height: 44px;
+    width: 200px;
+    background-color: blue;
+    color: white;
+    border-color: blue;
+    margin: 40px;
+    margin-left: 182px;
+    border-radius: 7px;
+    font-size: 1.3rem;
+    font-family: 'Courier New', Courier, monospace;
+}
